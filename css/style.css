@@ -1,0 +1,34 @@
+.navbar-brand img{
+	width:  75px;
+	height: 75px;
+}
+
+.navbar-nav a{
+	margin-left: 30px;
+}
+
+.toggle{
+	color: black;
+}
+
+.banner-img{
+	background: url(../images/weddingbrides_big.jpg);
+	background-size: cover;
+	max-height: 500px;
+
+}
+
+.header-description{
+	margin-top: 120px;
+	margin-bottom: 120px;
+}
+
+.about-img{
+	width: 240px;
+	height: 250px;
+}
+
+.about{
+	box-shadow: 5px 5px 10px grey;
+	margin-bottom: 50px;
+}
